@@ -385,9 +385,9 @@ Contributions welcome! Please follow these steps:
 **Sagar Lekhraj**
 - 🎓 ERP: 29325
 - 🏫 Institution: IBA Karachi
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 💻 GitHub: [@yourusername](https://github.com/yourusername)
+- 📧 Email: [s.sagar.29325@khi.iba.edu.pk]
+- 🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/sagar-lekhraj-1351222b2/)]
+- 💻 GitHub: [@yourusername](https://github.com/Sagarlekhraj-19)
 
 **Course**: CSE 472 - Introduction to Machine Learning  
 **Instructor**: Dr. Sajjad Haider, PhD  
